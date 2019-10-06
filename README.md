@@ -1,2 +1,2 @@
 # 4K-video-deep-learning
-Neural nets for content enrichment
+CONTENT ENRICHMENT TUTORIAL using Pixel Reproduction
