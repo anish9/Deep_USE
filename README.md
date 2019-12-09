@@ -2,4 +2,6 @@
 CONTENT ENRICHMENT TUTORIAL using Pixel Reproduction
 
 
-https://github.com/anish9/4K-video-deep-learning/blob/master/G1.gif
+
+<img src="https://github.com/anish9/4K-video-deep-learning/blob/master/G1.gif" alt="Smiley Sface" height="400" width="800">
+
